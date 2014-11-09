@@ -6,7 +6,7 @@ library(lubridate)
 # read the data
 column.class<-c(rep('character',2),rep('numeric',7))
 
-#set working directory
+#set working directory in my case its following
 #setwd("D:/Cousera/Data science specialization/4-expolatory data analysis/exdata_data_household_power_consumption")
 
 # Make sure that household_power_consumption.txt is in your working directory
